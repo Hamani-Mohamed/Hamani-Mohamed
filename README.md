@@ -1,17 +1,15 @@
 # Hi, I’m Muhammed 👋
 
-I’m a **23-year-old self-taught software developer** passionate about building **real-world applications**. I started learning to code on **April 7th, 2025**, and in less than a year, I’ve created **12 projects** in **C++ and C#**, ranging from console apps to Windows Forms applications.
+I’m a 23-year-old self-taught software developer passionate about building real-world applications. I started coding on April 7th, 2025, and in under a year, I’ve created 12+ projects in C++ and C#, from console apps to Windows Forms applications.
 
 ---
 
-## 💻 What I Know
-
-- **Languages:** C++, C#  
-- **Frameworks / Tools:** WinForms, Visual Studio  
-- **Databases:** Microsoft SQL Server  
-- **Concepts:** OOP, file handling, CRUD operations, multi-layer architecture, data validation, user interface design  
-- **Areas of Work:** Banking systems, calculators, games, contact management apps  
-
+💻 Skills & Tools
+- **Languages:** C++, C#
+- **Frameworks / Tools:** WinForms, Visual Studio
+- **Databases:** Microsoft SQL Server
+- **Concepts:** OOP, CRUD, file handling, multi-layer architecture, data validation, UI design
+- **Areas of Work:** Banking systems, calculators, games, contact management apps
 
 ---
 
