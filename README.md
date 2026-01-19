@@ -4,7 +4,7 @@ I’m a 23-year-old self-taught software developer passionate about building rea
 
 ---
 
-💻 Skills & Tools
+## 💻 Skills & Tools
 - **Languages:** C++, C#
 - **Frameworks / Tools:** WinForms, Visual Studio
 - **Databases:** Microsoft SQL Server
