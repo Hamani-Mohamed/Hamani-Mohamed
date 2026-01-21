@@ -25,7 +25,7 @@ Here’s a selection of my work (all public on my GitHub):
 ### C# Projects
 - **Contact Management App** – CRUD app with multi-layered architecture  
 - **Tic Tac Toe** – Interactive WinForms game with two-player mode  
-- **Shawarma** – Fun WinForms project
+- **Shawarma Ordering System** – WinForms app simulating a food ordering workflow
 - *(Other C# projects with WinForms GUI)*  
 
 > All projects have detailed READMEs explaining **what they're built with, features, more info...**.
