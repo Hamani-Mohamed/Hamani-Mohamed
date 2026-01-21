@@ -9,7 +9,7 @@ I’m a 23-year-old self-taught software developer passionate about building rea
 - **Frameworks / Tools:** WinForms, Visual Studio
 - **Databases:** Microsoft SQL Server
 - **Concepts:** OOP, CRUD, file handling, multi-layer architecture, data validation, UI design
-- **Areas of Work:** Banking systems, calculators, games, contact management apps
+- **Project Domains:** Banking systems, calculators, games, contact management apps
 
 ---
 
@@ -23,7 +23,7 @@ Here’s a selection of my work (all public on my GitHub):
 - **Rock-Paper-Scissors Game** – Classic game with score tracking
 
 ### C# Projects
-- **Contact Management App** – CRUD app with multi-layered architecture  
+- **Contact Management App** – C# WinForms app with layered architecture, SQL Server integration, validation, and CRUD operations
 - **Tic Tac Toe** – Interactive WinForms game with two-player mode  
 - **Shawarma Ordering System** – WinForms app simulating a food ordering workflow
 - *(Other C# projects with WinForms GUI)*  
