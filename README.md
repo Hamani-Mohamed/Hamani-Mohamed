@@ -42,7 +42,7 @@ I’m proof that **discipline and curiosity** can take you far, no matter your b
 
 ## 📫 Connect With Me
 
-- [GitHub](https://github.com/Hamani-Mohamed) – see all my projects  
+- [GitHub](https://github.com/Hamani-Mohamed?tab=repositories) – see all my projects  
 - [LinkedIn](https://www.linkedin.com/in/hamani-m-a53a2730b/) – my linkedIn
 
 ---
